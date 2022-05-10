@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Mail-Trigger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mail_Trigger_jar</output-path>
+    <root id="archive" name="Mail-Trigger.jar">
+      <element id="module-output" name="Mail-Trigger" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javax.mail-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/smtp-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jaf-1.1.1/activation.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
